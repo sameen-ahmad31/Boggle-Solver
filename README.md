@@ -1,1 +1,1 @@
-# Boggle-Solver
+# Boggle Solver
